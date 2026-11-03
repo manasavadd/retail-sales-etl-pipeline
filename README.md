@@ -86,7 +86,7 @@ retail-sales-etl-pipeline/
 Requires **Python 3.10 or newer** and Git.
 
 ```bash
-git clone https://github.com/<your-username>/retail-sales-etl-pipeline.git
+git clone https://github.com/manasavadd/retail-sales-etl-pipeline.git
 cd retail-sales-etl-pipeline
 
 # create and activate a virtual environment
